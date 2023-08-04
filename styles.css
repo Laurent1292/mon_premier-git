@@ -1,5 +1,10 @@
+body {
+    background-color: azure;
+}
+
 h1 {
-    color: red;
+    color: brown;
+    margin-left: 12px;
 }
 
 p {
